@@ -24,3 +24,4 @@
 // Fix controlled input - 2020-05-30 10:12:00
 // Fix useEffect cleanup - 2022-05-11 10:08:00
 // Improve prop types - 2024-04-17 10:04:00
+// Improve context typing - 2017-06-30 10:00:00
