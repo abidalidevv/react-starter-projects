@@ -6,3 +6,4 @@
 // Fix conditional rendering - 2024-03-07 10:00:00
 // Fix children typing - 2023-10-18 10:10:00
 // Refactor styled component types - 2022-05-06 10:06:00
+// Improve reducer typing - 2017-08-01 10:02:00
