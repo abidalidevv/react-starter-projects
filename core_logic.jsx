@@ -7,3 +7,4 @@
 // Fix children typing - 2023-10-18 10:10:00
 // Refactor styled component types - 2022-05-06 10:06:00
 // Improve reducer typing - 2017-08-01 10:02:00
+// Add aria attributes - 2017-09-06 10:12:00
