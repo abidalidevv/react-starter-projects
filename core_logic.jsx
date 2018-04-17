@@ -217,3 +217,4 @@
 // Optimize re-renders - 2023-12-08 10:10:00
 // Fix useRef typing - 2024-12-01 10:06:00
 // Add missing key prop - 2023-07-20 10:02:00
+// Improve prop types - 2018-04-17 10:12:00
