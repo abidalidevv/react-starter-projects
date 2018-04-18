@@ -144,3 +144,4 @@
 // Improve prop types - 2023-09-02 10:08:00
 // Improve prop types - 2021-03-30 10:04:00
 // Fix prop validation - 2024-05-08 10:00:00
+// Add forwardRef typing - 2018-04-18 10:10:00
