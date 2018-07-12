@@ -173,3 +173,4 @@
 // Add default props - 2021-11-02 10:04:00
 // Fix children typing - 2020-11-25 10:00:00
 // Add HOC type helpers - 2018-04-21 10:10:00
+// Improve component composition - 2018-07-12 10:06:00
