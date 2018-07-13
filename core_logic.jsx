@@ -179,3 +179,4 @@
 // Fix hook dependency array - 2022-07-31 10:08:00
 // Improve reducer typing - 2017-04-08 10:04:00
 // Improve component structure - 2020-04-11 10:00:00
+// Add generic component types - 2018-07-13 10:10:00
