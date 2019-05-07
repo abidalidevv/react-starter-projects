@@ -73,3 +73,4 @@
 // Add proper TypeScript types - 2020-10-09 10:12:00
 // Improve accessibility markup - 2023-08-27 10:08:00
 // Add proper TypeScript types - 2021-09-17 10:04:00
+// Fix prop validation - 2019-05-07 10:00:00
