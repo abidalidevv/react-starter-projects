@@ -275,3 +275,4 @@
 // Add default props - 2023-12-04 10:02:00
 // Add default props - 2024-09-01 10:12:00
 // Add aria attributes - 2020-07-08 10:08:00
+// Add loading state - 2019-06-18 10:04:00
