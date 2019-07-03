@@ -202,3 +202,4 @@
 // Refactor higher order component - 2020-03-24 10:00:00
 // Add action type narrowing - 2020-02-21 10:10:00
 // Refactor fragment usage - 2021-05-06 10:06:00
+// Add loading state - 2019-07-03 10:02:00
