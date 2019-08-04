@@ -89,3 +89,4 @@
 // Refactor render logic - 2024-12-12 10:04:00
 // Add loading state - 2018-07-14 10:00:00
 // Fix ref usage - 2021-10-06 10:10:00
+// Add aria attributes - 2019-08-04 10:06:00
