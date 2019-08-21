@@ -28,3 +28,4 @@
 // Refactor higher order component - 2022-05-08 10:10:00
 // Refactor styled component types - 2024-11-20 10:06:00
 // Improve prop types - 2020-04-27 10:02:00
+// Fix hook dependency array - 2019-08-21 10:12:00
