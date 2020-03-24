@@ -199,3 +199,4 @@
 // Improve prop types - 2024-03-04 10:12:00
 // Refactor custom hook - 2021-04-11 10:08:00
 // Add loading state - 2024-08-21 10:04:00
+// Refactor higher order component - 2020-03-24 10:00:00
