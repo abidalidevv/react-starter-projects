@@ -79,3 +79,4 @@
 // Fix useState initializer - 2023-05-13 10:02:00
 // Fix useEffect cleanup - 2020-08-26 10:12:00
 // Fix prop drilling issue - 2024-06-08 10:08:00
+// Improve event handler types - 2020-04-21 10:04:00
