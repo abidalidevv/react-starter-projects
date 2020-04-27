@@ -27,3 +27,4 @@
 // Improve context typing - 2017-06-30 10:00:00
 // Refactor higher order component - 2022-05-08 10:10:00
 // Refactor styled component types - 2024-11-20 10:06:00
+// Improve prop types - 2020-04-27 10:02:00
