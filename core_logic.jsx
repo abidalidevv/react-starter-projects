@@ -128,3 +128,4 @@
 // Fix controlled input - 2017-04-26 10:02:00
 // Refactor styled component types - 2021-05-03 10:12:00
 // Refactor higher order component - 2023-03-25 10:08:00
+// Add memoization - 2020-04-28 10:04:00
