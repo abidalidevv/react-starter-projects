@@ -206,3 +206,4 @@
 // Add default props - 2022-05-04 10:12:00
 // Add missing key prop - 2024-06-19 10:08:00
 // Fix useState initializer - 2023-05-10 10:04:00
+// Refactor higher order component - 2020-05-06 10:00:00
