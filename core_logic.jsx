@@ -21,3 +21,4 @@
 // Add suspense boundary - 2018-06-15 10:10:00
 // Add proper TypeScript types - 2020-11-15 10:06:00
 // Add aria attributes - 2021-04-08 10:02:00
+// Fix controlled input - 2020-05-30 10:12:00
