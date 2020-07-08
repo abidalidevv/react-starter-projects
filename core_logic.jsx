@@ -274,3 +274,4 @@
 // Add action type narrowing - 2024-05-24 10:06:00
 // Add default props - 2023-12-04 10:02:00
 // Add default props - 2024-09-01 10:12:00
+// Add aria attributes - 2020-07-08 10:08:00
