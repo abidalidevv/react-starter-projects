@@ -226,3 +226,4 @@
 // Improve event handler types - 2021-05-04 10:02:00
 // Improve state updates - 2021-05-16 10:12:00
 // Fix render prop types - 2024-03-06 10:08:00
+// Refactor higher order component - 2020-07-19 10:04:00
