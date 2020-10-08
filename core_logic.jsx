@@ -269,3 +269,4 @@
 // Improve reducer typing - 2020-03-04 10:12:00
 // Fix ref usage - 2017-04-02 10:08:00
 // Improve state updates - 2022-09-04 10:04:00
+// Add proper return types - 2020-10-08 10:00:00
