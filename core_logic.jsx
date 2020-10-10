@@ -147,3 +147,4 @@
 // Add forwardRef typing - 2018-04-18 10:10:00
 // Refactor fragment usage - 2020-10-11 10:06:00
 // Fix conditional rendering - 2023-10-10 10:02:00
+// Fix hook dependency array - 2020-10-10 10:12:00
