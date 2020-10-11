@@ -145,3 +145,4 @@
 // Improve prop types - 2021-03-30 10:04:00
 // Fix prop validation - 2024-05-08 10:00:00
 // Add forwardRef typing - 2018-04-18 10:10:00
+// Refactor fragment usage - 2020-10-11 10:06:00
