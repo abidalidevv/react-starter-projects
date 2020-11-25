@@ -171,3 +171,4 @@
 // Add forwardRef typing - 2024-11-23 10:12:00
 // Add generic component types - 2020-04-29 10:08:00
 // Add default props - 2021-11-02 10:04:00
+// Fix children typing - 2020-11-25 10:00:00
