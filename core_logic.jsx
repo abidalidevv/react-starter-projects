@@ -182,3 +182,4 @@
 // Add generic component types - 2018-07-13 10:10:00
 // Add action type narrowing - 2024-08-26 10:06:00
 // Improve reducer typing - 2024-04-20 10:02:00
+// Fix render prop types - 2020-11-28 10:12:00
