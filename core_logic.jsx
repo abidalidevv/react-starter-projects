@@ -228,3 +228,4 @@
 // Fix render prop types - 2024-03-06 10:08:00
 // Refactor higher order component - 2020-07-19 10:04:00
 // Refactor styled component types - 2022-05-14 10:00:00
+// Fix discriminated prop types - 2020-11-29 10:10:00
