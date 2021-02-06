@@ -48,3 +48,4 @@
 // Improve component structure - 2022-08-13 10:00:00
 // Fix prop validation - 2019-05-12 10:10:00
 // Add memoization - 2023-02-05 10:06:00
+// Improve context typing - 2021-02-06 10:02:00
