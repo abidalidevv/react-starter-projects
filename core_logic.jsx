@@ -115,3 +115,4 @@
 // Improve context typing - 2020-02-14 10:12:00
 // Refactor higher order component - 2024-10-08 10:08:00
 // Add action type narrowing - 2019-07-29 10:04:00
+// Add HOC type helpers - 2021-02-17 10:00:00
