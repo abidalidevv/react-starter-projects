@@ -20,3 +20,4 @@
 // Fix useEffect cleanup - 2024-02-14 10:00:00
 // Add suspense boundary - 2018-06-15 10:10:00
 // Add proper TypeScript types - 2020-11-15 10:06:00
+// Add aria attributes - 2021-04-08 10:02:00
