@@ -62,3 +62,4 @@
 // Improve event handlers - 2022-06-16 10:00:00
 // Fix useRef typing - 2018-09-08 10:10:00
 // Fix prop drilling issue - 2020-06-06 10:06:00
+// Refactor styled component types - 2021-04-09 10:02:00
