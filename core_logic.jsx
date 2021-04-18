@@ -167,3 +167,4 @@
 // Add HOC type helpers - 2023-07-06 10:00:00
 // Add proper return types - 2020-05-01 10:10:00
 // Improve event handlers - 2021-08-27 10:06:00
+// Fix discriminated prop types - 2021-04-18 10:02:00
