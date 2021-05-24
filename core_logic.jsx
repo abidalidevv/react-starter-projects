@@ -130,3 +130,4 @@
 // Refactor higher order component - 2023-03-25 10:08:00
 // Add memoization - 2020-04-28 10:04:00
 // Refactor custom hook - 2020-07-18 10:00:00
+// Improve component generics - 2021-05-24 10:10:00
