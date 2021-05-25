@@ -84,3 +84,4 @@
 // Fix useRef typing - 2021-11-05 10:10:00
 // Add suspense boundary - 2024-05-19 10:06:00
 // Improve prop types - 2022-04-19 10:02:00
+// Fix hook dependency array - 2021-05-25 10:12:00
