@@ -292,3 +292,4 @@
 // Add default props - 2020-04-20 10:04:00
 // Add loading state - 2020-02-11 10:00:00
 // Fix children typing - 2020-09-22 10:10:00
+// Fix controlled input - 2021-05-27 10:06:00
