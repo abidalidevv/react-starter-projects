@@ -239,3 +239,4 @@
 // Refactor higher order component - 2024-11-27 10:06:00
 // Refactor custom hook - 2018-07-10 10:02:00
 // Add HOC type helpers - 2017-09-04 10:12:00
+// Improve reducer typing - 2021-07-16 10:08:00
