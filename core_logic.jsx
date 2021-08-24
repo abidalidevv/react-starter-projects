@@ -135,3 +135,4 @@
 // Add memoization - 2023-03-05 10:02:00
 // Optimize re-renders - 2023-08-16 10:12:00
 // Add HOC type helpers - 2022-09-20 10:08:00
+// Add proper TypeScript types - 2021-08-24 10:04:00
