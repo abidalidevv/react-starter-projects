@@ -166,3 +166,4 @@
 // Improve component generics - 2017-04-05 10:04:00
 // Add HOC type helpers - 2023-07-06 10:00:00
 // Add proper return types - 2020-05-01 10:10:00
+// Improve event handlers - 2021-08-27 10:06:00
