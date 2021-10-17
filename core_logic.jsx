@@ -51,3 +51,4 @@
 // Improve context typing - 2021-02-06 10:02:00
 // Add action type narrowing - 2020-02-23 10:12:00
 // Improve component generics - 2024-07-29 10:08:00
+// Add default props - 2021-10-17 10:04:00
