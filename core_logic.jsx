@@ -294,3 +294,4 @@
 // Fix children typing - 2020-09-22 10:10:00
 // Fix controlled input - 2021-05-27 10:06:00
 // Add error boundary - 2024-08-23 10:02:00
+// Fix async handler types - 2021-11-01 10:12:00
