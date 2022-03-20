@@ -52,3 +52,4 @@
 // Add action type narrowing - 2020-02-23 10:12:00
 // Improve component generics - 2024-07-29 10:08:00
 // Add default props - 2021-10-17 10:04:00
+// Refactor styled component types - 2022-03-20 10:00:00
