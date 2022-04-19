@@ -83,3 +83,4 @@
 // Add useMemo optimization - 2020-10-06 10:00:00
 // Fix useRef typing - 2021-11-05 10:10:00
 // Add suspense boundary - 2024-05-19 10:06:00
+// Improve prop types - 2022-04-19 10:02:00
