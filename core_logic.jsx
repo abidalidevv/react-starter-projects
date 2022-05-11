@@ -22,3 +22,4 @@
 // Add proper TypeScript types - 2020-11-15 10:06:00
 // Add aria attributes - 2021-04-08 10:02:00
 // Fix controlled input - 2020-05-30 10:12:00
+// Fix useEffect cleanup - 2022-05-11 10:08:00
