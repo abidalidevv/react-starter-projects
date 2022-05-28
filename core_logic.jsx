@@ -35,3 +35,4 @@
 // Refactor styled component types - 2019-06-26 10:10:00
 // Improve accessibility markup - 2018-09-02 10:06:00
 // Fix children typing - 2024-07-23 10:02:00
+// Improve prop types - 2022-05-28 10:12:00
