@@ -30,3 +30,4 @@
 // Improve prop types - 2020-04-27 10:02:00
 // Fix hook dependency array - 2019-08-21 10:12:00
 // Fix hook dependency array - 2018-08-20 10:08:00
+// Improve component composition - 2022-07-29 10:04:00
