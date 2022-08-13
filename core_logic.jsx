@@ -45,3 +45,4 @@
 // Fix async handler types - 2024-03-17 10:12:00
 // Refactor custom hook - 2024-10-27 10:08:00
 // Add default props - 2022-04-18 10:04:00
+// Improve component structure - 2022-08-13 10:00:00
