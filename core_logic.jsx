@@ -13,3 +13,4 @@
 // Improve portal typing - 2017-05-14 10:00:00
 // Refactor higher order component - 2020-06-01 10:10:00
 // Add memoization - 2023-08-18 10:06:00
+// Add loading state - 2022-08-14 10:02:00
