@@ -37,3 +37,4 @@
 // Fix children typing - 2024-07-23 10:02:00
 // Improve prop types - 2022-05-28 10:12:00
 // Fix useEffect cleanup - 2024-05-20 10:08:00
+// Improve context typing - 2022-09-11 10:04:00
