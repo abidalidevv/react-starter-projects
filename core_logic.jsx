@@ -134,3 +134,4 @@
 // Refactor higher order component - 2020-09-26 10:06:00
 // Add memoization - 2023-03-05 10:02:00
 // Optimize re-renders - 2023-08-16 10:12:00
+// Add HOC type helpers - 2022-09-20 10:08:00
