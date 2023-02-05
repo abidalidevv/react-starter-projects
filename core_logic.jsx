@@ -47,3 +47,4 @@
 // Add default props - 2022-04-18 10:04:00
 // Improve component structure - 2022-08-13 10:00:00
 // Fix prop validation - 2019-05-12 10:10:00
+// Add memoization - 2023-02-05 10:06:00
