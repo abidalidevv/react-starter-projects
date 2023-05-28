@@ -107,3 +107,4 @@
 // Add memoization - 2017-05-17 10:02:00
 // Optimize component rendering - 2021-01-24 10:12:00
 // Add loading state - 2021-10-29 10:08:00
+// Fix async handler types - 2023-05-28 10:04:00
