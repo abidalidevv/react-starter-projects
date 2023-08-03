@@ -54,3 +54,4 @@
 // Add default props - 2021-10-17 10:04:00
 // Refactor styled component types - 2022-03-20 10:00:00
 // Improve event handlers - 2023-02-25 10:10:00
+// Add proper return types - 2023-08-03 10:06:00
