@@ -63,3 +63,4 @@
 // Fix useRef typing - 2018-09-08 10:10:00
 // Fix prop drilling issue - 2020-06-06 10:06:00
 // Refactor styled component types - 2021-04-09 10:02:00
+// Optimize re-renders - 2023-08-19 10:12:00
