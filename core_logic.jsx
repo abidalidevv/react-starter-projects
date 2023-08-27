@@ -71,3 +71,4 @@
 // Fix async handler types - 2019-07-13 10:06:00
 // Fix controlled input - 2024-04-18 10:02:00
 // Add proper TypeScript types - 2020-10-09 10:12:00
+// Improve accessibility markup - 2023-08-27 10:08:00
