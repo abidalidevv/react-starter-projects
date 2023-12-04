@@ -272,3 +272,4 @@
 // Add proper return types - 2020-10-08 10:00:00
 // Fix context value - 2021-05-01 10:10:00
 // Add action type narrowing - 2024-05-24 10:06:00
+// Add default props - 2023-12-04 10:02:00
