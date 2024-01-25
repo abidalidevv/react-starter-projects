@@ -287,3 +287,4 @@
 // Fix useRef typing - 2024-06-25 10:10:00
 // Fix useState initializer - 2019-05-06 10:06:00
 // Fix render prop types - 2021-10-02 10:02:00
+// Add default props - 2024-01-25 10:12:00
