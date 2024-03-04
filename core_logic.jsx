@@ -196,3 +196,4 @@
 // Add aria attributes - 2018-09-07 10:10:00
 // Fix useEffect cleanup - 2024-06-18 10:06:00
 // Improve state updates - 2022-04-07 10:02:00
+// Improve prop types - 2024-03-04 10:12:00
