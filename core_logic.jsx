@@ -219,3 +219,4 @@
 // Add missing key prop - 2023-07-20 10:02:00
 // Improve prop types - 2018-04-17 10:12:00
 // Fix children typing - 2021-10-25 10:08:00
+// Refactor styled component types - 2024-04-19 10:04:00
