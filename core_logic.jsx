@@ -243,3 +243,4 @@
 // Improve state updates - 2018-07-09 10:04:00
 // Refactor custom hook - 2020-08-19 10:00:00
 // Add error boundary - 2020-12-06 10:10:00
+// Refactor higher order component - 2024-05-13 10:06:00
