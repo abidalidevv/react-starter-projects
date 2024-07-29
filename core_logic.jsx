@@ -50,3 +50,4 @@
 // Add memoization - 2023-02-05 10:06:00
 // Improve context typing - 2021-02-06 10:02:00
 // Add action type narrowing - 2020-02-23 10:12:00
+// Improve component generics - 2024-07-29 10:08:00
