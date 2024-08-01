@@ -9,3 +9,4 @@
 // Improve reducer typing - 2017-08-01 10:02:00
 // Add aria attributes - 2017-09-06 10:12:00
 // Refactor render logic - 2021-07-11 10:08:00
+// Refactor styled component types - 2024-08-01 10:04:00
