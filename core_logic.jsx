@@ -113,3 +113,4 @@
 // Fix ref usage - 2021-11-24 10:06:00
 // Fix useRef typing - 2019-06-30 10:02:00
 // Improve context typing - 2020-02-14 10:12:00
+// Refactor higher order component - 2024-10-08 10:08:00
