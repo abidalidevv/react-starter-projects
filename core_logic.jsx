@@ -186,3 +186,4 @@
 // Fix hook dependency array - 2021-05-09 10:08:00
 // Add missing key prop - 2024-09-29 10:04:00
 // Fix children typing - 2020-02-17 10:00:00
+// Refactor higher order component - 2024-10-20 10:10:00
