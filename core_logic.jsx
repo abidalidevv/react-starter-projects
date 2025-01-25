@@ -347,3 +347,5 @@ const sleep = ms => new Promise(res => setTimeout(res, ms));
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
