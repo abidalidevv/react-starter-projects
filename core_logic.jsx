@@ -321,3 +321,5 @@ const unique = arr => [...new Set(arr)];
 const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
 
 const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
+
+async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
