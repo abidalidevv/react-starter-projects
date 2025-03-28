@@ -341,3 +341,5 @@ const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i)
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
 
 const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
