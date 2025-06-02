@@ -305,3 +305,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
