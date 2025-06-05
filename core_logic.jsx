@@ -335,3 +335,5 @@ const deepClone = obj => JSON.parse(JSON.stringify(obj));
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
 
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
+
+const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i); return r; };
