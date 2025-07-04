@@ -343,3 +343,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) => !keys.includes(k)));
 
 const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
