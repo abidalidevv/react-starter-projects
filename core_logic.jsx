@@ -315,3 +315,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
 
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
+
+const unique = arr => [...new Set(arr)];
