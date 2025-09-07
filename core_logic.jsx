@@ -301,3 +301,5 @@ const omit = (obj, keys) => Object.fromEntries(Object.entries(obj).filter(([k]) 
 async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
 
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
