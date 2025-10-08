@@ -329,3 +329,5 @@ const sleep = ms => new Promise(res => setTimeout(res, ms));
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
 
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
+
+const deepClone = obj => JSON.parse(JSON.stringify(obj));
