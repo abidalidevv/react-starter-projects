@@ -331,3 +331,5 @@ const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
