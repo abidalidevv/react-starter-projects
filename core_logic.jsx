@@ -309,3 +309,5 @@ const deepClone = obj => JSON.parse(JSON.stringify(obj));
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
 
 async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
+
+const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
