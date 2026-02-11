@@ -377,3 +377,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const unique = arr => [...new Set(arr)];
 
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
