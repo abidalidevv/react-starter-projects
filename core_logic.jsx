@@ -361,3 +361,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
 
 const unique = arr => [...new Set(arr)];
+
+const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
