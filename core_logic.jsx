@@ -385,3 +385,5 @@ const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
 const groupBy = (arr, key) => arr.reduce((acc,i) => { (acc[i[key]]=acc[i[key]]||[]).push(i); return acc; }, {});
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
